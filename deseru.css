@@ -1,0 +1,7 @@
+:root {
+  --spacing: 16px; /* Define a CSS variable for spacing */
+}
+
+.example {
+  padding: var(--spacing); /* Use the CSS variable for padding */
+}
